@@ -3,8 +3,8 @@
   "name": "25Sep_Block1",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/25Sep.git",
+    "ssh": "git@github.com:grgshiji/25Sep.git",
     "branch": "block_25Sep_Block1"
   },
   "parentBlockIDs": [
