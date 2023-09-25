@@ -1,0 +1,21 @@
+{
+  "name": "25Sep",
+  "type": "package",
+  "blockId": "vpto0yaYW93VwuAyb0FWH",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_25Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "25Sep_Block1": {
+      "directory": "25Sep_Block1"
+    }
+  }
+}
